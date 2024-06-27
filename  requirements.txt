@@ -1,0 +1,4 @@
+pyodbc
+boto3
+pandas
+configparser
